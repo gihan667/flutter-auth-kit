@@ -27,6 +27,7 @@ class OtpScreen extends StatelessWidget {
           width: double.infinity,
           height: size.height,
           child: SingleChildScrollView(
+            physics: BouncingScrollPhysics(),
             padding: EdgeInsets.symmetric(horizontal: kDefaultPadding),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,

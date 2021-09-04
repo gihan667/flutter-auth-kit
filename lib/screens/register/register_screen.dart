@@ -21,6 +21,7 @@ class RegisterScreen extends StatelessWidget {
           height: size.height,
           alignment: Alignment.center,
           child: SingleChildScrollView(
+            physics: BouncingScrollPhysics(),
             padding: EdgeInsets.symmetric(horizontal: kDefaultPadding),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
