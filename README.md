@@ -1,16 +1,39 @@
-# flutter_auth
+# Flutter Auth UI Kit
 
-A new Flutter project.
+Flutter Login UI Kit made with Flutter 2.2 offers you Login, Registration, Forget Password and OTP Verify Screen. Code and design ready to use in your Android/iOS Mobile application.
+You can use it on all platforms without any problems.
+
+Flutter Login UI Kit is an Login and Register UI Kit written in Flutter and Dart. The UI Kit is completely focused on performance and time saving. It is a ready-made project that will save you an average of 100 hours.
+
+# Features
+
+- Android/iOS Support
+- Dark Mode Supported
+- Provider Integrated to Handle Dark/Light Mode
+- Null Safety Support
+- 4 Screens
+- Native Splash Screen Added
+- Clean Code Base
+- Responsive Design<
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Run `flutter pub get`
+- To run on connected android device run `flutter run`
+- To build APK run `flutter build apk`
 
-A few resources to get you started if this is your first Flutter project:
+## Changing Theme Colors
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- All colors defined in `constants.dart` file
+- Theme data defined in `theme.dart` file
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Follow us
+
+- [Subscribe us](https://www.youtube.com/c/CodeCrafts)
+- [Instagram](https://www.instagram.com/codecrafts)
+- [Facebook](https://www.facebook.com/codecraftsl)
+
+Do you have project in your mind? Just connect with us
+
+- Email: info@codecrafts.dev
+- Whats App: +94 7755 80 646
